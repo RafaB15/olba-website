@@ -1,0 +1,16 @@
+.custom-navbar {
+    background-color: #000000;
+    /* Black background */
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: #ffffff;
+    /* White text */
+}
+
+.custom-navbar .nav-link:hover {
+    color: #d4d4d4;
+    text-decoration: underline
+        /* Light grey on hover */
+}
